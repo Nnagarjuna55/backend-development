@@ -30,10 +30,6 @@ A FastAPI-based service for processing transaction webhooks with background proc
    python main.py
    ```
 
-3. **Access API Documentation**
-   - Swagger UI: http://localhost:8000/docs
-   - ReDoc: http://localhost:8000/redoc
-
 ## API Endpoints
 
 ### Health Check
